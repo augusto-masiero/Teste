@@ -1,0 +1,11 @@
+D:\Área de Trabalho\Projetos\Projeto1\Projeto1\bin\Debug\Projeto1.exe.config
+D:\Área de Trabalho\Projetos\Projeto1\Projeto1\bin\Debug\Projeto1.exe
+D:\Área de Trabalho\Projetos\Projeto1\Projeto1\bin\Debug\Projeto1.pdb
+D:\Área de Trabalho\Projetos\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.AssemblyReference.cache
+D:\Área de Trabalho\Projetos\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.SuggestedBindingRedirects.cache
+D:\Área de Trabalho\Projetos\Projeto1\Projeto1\obj\Debug\Projeto1.frmJuros.resources
+D:\Área de Trabalho\Projetos\Projeto1\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+D:\Área de Trabalho\Projetos\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+D:\Área de Trabalho\Projetos\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Projetos\Projeto1\Projeto1\obj\Debug\Projeto1.exe
+D:\Área de Trabalho\Projetos\Projeto1\Projeto1\obj\Debug\Projeto1.pdb
